@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  baseUrl: 'https://books-back-deploy.herokuapp.com/books',
+  baseUrl: 'https://books-back-deploy.herokuapp.com',
 };
